@@ -1,0 +1,12 @@
+Find the element that appears once (Single Number II)
+sum of hamming distance of all the pairs
+* Maximum XOR of Two Numbers in an Array	
+
+Divide Integers	
+	
+Different Bits Sum Pairwise	
+Interesting Array	
+
+
+
+
